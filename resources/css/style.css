@@ -37,3 +37,10 @@ background-image: url("https://s3.amazonaws.com/codecademy-content/programs/free
 color: white;
 font-weight: bold;
 }
+
+.bottom{
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+  text-align: left;
+}
